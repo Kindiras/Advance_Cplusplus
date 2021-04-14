@@ -1,2 +1,2 @@
 ## Advance_Cplusplus
-+ [Exception-Handling](Exception-Handling) has idea how `try`, `trow`, and `catch` command works. 
++ [Exception-Handling](Exception-Handling) has ideas how `try`, `throw`, and `catch` command works. 
