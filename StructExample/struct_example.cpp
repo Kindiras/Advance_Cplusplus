@@ -1,6 +1,7 @@
 #include <iostream>
 
 using namespace  std;
+#pragma pack(push,1)
 
 struct Employee
 {
@@ -8,6 +9,7 @@ struct Employee
 	int age;
 	int salary;
 }emp1, emp2;
+#pragma pack(pop)
 
 void Employee_info(struct Employee emp);
 
