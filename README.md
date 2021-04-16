@@ -8,4 +8,4 @@
 + [SubclassException](Exception-Handling/SubclassException) is an example from [John Purcell](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688058#overview) showing that child class should be called first and then parent class in handling exception.
 
 ### [ReadWriteFiles](ReadWriteFiles)
-+ This foleder has examples that show how to read write files in c++.
++ This foleder has examples that show how to read write files in c++, write_files.cpp writes the test.txt file while Readfile.cpp reads the file line by line. 
