@@ -9,4 +9,4 @@
 ### [ReadWriteFiles](ReadWriteFiles)
 + [TextFiles](ReadWriteFiles/TextFiles)This foleder has examples that show how to read write text files in c++, write_files.cpp writes the test.txt file while ReadFile.cpp reads the file line by line. 
 ### [StructExample](StructExample)
-  + This gives an idea about ```struct``` . For more info see [here](http://www.cplusplus.com/doc/tutorial/structures/)
+  + This gives an idea about ```struct``` in c++. For more info see [here](http://www.cplusplus.com/doc/tutorial/structures/)
