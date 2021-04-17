@@ -10,4 +10,4 @@
   + This gives an idea about ```struct``` in c++. For more info see [here](http://www.cplusplus.com/doc/tutorial/structures/)
 ### [ReadWriteFiles](ReadWriteFiles)
 + [TextFiles](ReadWriteFiles/TextFiles)This foleder has examples that show how to read write text files in c++, write_files.cpp writes the test.txt file while ReadFile.cpp reads the file line by line. 
-+ [BinaryFiles](ReadWriteFiles/BinaryFiles) give some ideas about reading and writting the binary files.
++ [BinaryFiles](ReadWriteFiles/BinaryFiles) give some ideas about reading and writting the binary files in c++.
