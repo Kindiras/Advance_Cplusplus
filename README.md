@@ -11,3 +11,5 @@
 ### [ReadWriteFiles](ReadWriteFiles)
 + [TextFiles](ReadWriteFiles/TextFiles)This foleder has examples that show how to read write text files in c++, write_files.cpp writes the test.txt file while ReadFile.cpp reads the file line by line. 
 + [BinaryFiles](ReadWriteFiles/BinaryFiles) give some ideas about reading and writting the binary files in c++.
+### [Vector](Vectors)
+ + It has some examples which can give some sort of ideas about vector in c++.
