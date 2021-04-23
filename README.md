@@ -15,6 +15,6 @@
  + [Basics](Vectors/Basics) has some examples which can give some sort of basic ideas about vector in c++.
  + [2D-Vector](Vectors/Two-Dimensional-Vectors) is declared as vector< vector<int> > grid(row,vector<int>(columns,values)).
 ### [List](list):
-  This example from [Udemy](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688260#questions) gives an idea about list in c++.
+  + This example from [Udemy](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688260#questions) gives an idea about list in c++.
 ### [Map](Maps):
-  It has basic idea about map in c++.
+  + It has basic idea about map in c++.
