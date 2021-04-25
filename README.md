@@ -20,4 +20,4 @@
   + It has basic idea about map in c++.
 
 ### [Set](Sets):
-    + it has basic example about set in c++ from [John Purcell](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688260#questions)
+    + it has basic example about set in c++ from [John Purcell](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688272?LSNPUBID=vedj0cWlu2Y&components=buy_button%2Cdiscount_expiration%2Cgift_this_course%2Cpurchase%2Cdeal_badge%2Credeem_coupon&ranEAID=vedj0cWlu2Y&ranMID=39197&ranSiteID=vedj0cWlu2Y-wZ8Rmq6B9RugM0ggThLC.A&utm_medium=udemyads&utm_source=aff-campaign#announcements)
