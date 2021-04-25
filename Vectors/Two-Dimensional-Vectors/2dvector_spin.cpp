@@ -1,19 +1,37 @@
+#include <stdio.h>
 #include <iostream>
+#include <stdlib.h>
+#include <math.h>
+#include <string.h>
+#include <time.h>
+#include <ctime>    
+#include <cstdlib>
 #include <vector>
 
 using namespace std;
-int random_integer();
+double random_spin();
 
 
 int main()
 {
+    srand(time(NULL));
+  float f;
 vector< vector<int> > grid; vector<int> test;
 for (int row = 0; row<3;row++)
 {
 	for(int col = 0; col<5;col++)
 	{
-        test.push_back(random_integer()-1);
-		
+        f = random_spin();
+        cout<<"value:"<<f<<endl;
+        if(f > 0.5)
+        {
+            test.push_back(1);
+        }
+		else
+        {
+            test.push_back(-1);
+        }
+        
     }
     grid.push_back(test);
 
@@ -33,8 +51,8 @@ for (int row = 0; row<3;row++)
 return 0;
 }
 
-int random_integer()
+double random_spin()
     {
-    	return (int (rand() % 2));
-
+        int randomNumber = rand();
+    return float(randomNumber)/RAND_MAX;
     }    
