@@ -14,6 +14,7 @@
 ### [Vector](Vectors)
  + [Basics](Vectors/Basics) has some examples which can give some sort of basic ideas about vector in c++.
  + [2D-Vector](Vectors/Two-Dimensional-Vectors) is declared as vector< vector<int> > grid(row,vector<int>(columns,values)).
+ + [2D-VectorInClass](Vectors/VectorInClass) has nice example of vector in class in c++.
 ### [List](list):
   + This example from [Udemy](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688260#questions) gives an idea about list in c++.
 ### [Map](Maps):
