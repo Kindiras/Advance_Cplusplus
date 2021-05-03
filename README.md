@@ -24,4 +24,4 @@
 ### [StackAndQues](StackAndQues):
   + This example gives basic ideas about Stack and Queue in c++.
 ### [SortingVector](SortingVectorFriend):
-  +This has examples of how to sort the vectors' element as well as friend function prototype in c++.
+  + This has examples of how to sort the vectors' element as well as friend function prototype in c++.
