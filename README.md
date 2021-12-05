@@ -9,7 +9,7 @@
 ### [StructExample](StructExample)
   + This gives an idea about ```struct``` in c++. For more info see [here](http://www.cplusplus.com/doc/tutorial/structures/)
 
-### [LinkListExamples](LinkListExamples)
+### [LinkListExamples](LinkListExample)
    + Thses examples give clear idea about link list. This title was not tought in udemy. Go over it and get the clear ideas. 
 ### [ReadWriteFiles](ReadWriteFiles)
 + [TextFiles](ReadWriteFiles/TextFiles)This foleder has examples that show how to read write text files in c++, write_files.cpp writes the test.txt file while ReadFile.cpp reads the file line by line. 
