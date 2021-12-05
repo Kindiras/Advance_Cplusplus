@@ -1,3 +1,5 @@
+//This reads the three vertices of triangle and prints the mid points. 
+
 #include <iostream>
 # include <fstream>
 
