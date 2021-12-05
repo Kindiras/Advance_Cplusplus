@@ -8,7 +8,8 @@
 + [SubclassException](Exception-Handling/SubclassException) is an example from [John Purcell](https://www.udemy.com/course/learn-advanced-c-programming/learn/lecture/3688058#overview) showing that child class should be called first and then parent class in handling exception.
 ### [StructExample](StructExample)
   + This gives an idea about ```struct``` in c++. For more info see [here](http://www.cplusplus.com/doc/tutorial/structures/)
-###[LinkListExamples](LinkListExamples)
+
+### [LinkListExamples](LinkListExamples)
    + Thses examples give clear idea about link list. This title was not tought in udemy. Go over it and get the clear ideas. 
 ### [ReadWriteFiles](ReadWriteFiles)
 + [TextFiles](ReadWriteFiles/TextFiles)This foleder has examples that show how to read write text files in c++, write_files.cpp writes the test.txt file while ReadFile.cpp reads the file line by line. 
