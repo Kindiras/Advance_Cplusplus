@@ -1,3 +1,4 @@
+//This Reads vertices of triangle from data.txt and prints the mid of the vertices. 
 #include <iostream>
 # include <fstream>
 
